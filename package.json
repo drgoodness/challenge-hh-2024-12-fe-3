@@ -1,0 +1,51 @@
+{
+  "name": "challenge-hh-2024-12-fe-3",
+  "version": "1.0.0",
+  "description": "Kanban board application with React-Next.js and Redux-Saga",
+  "main": "src/pages/_app.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drgoodness/challenge-hh-2024-12-fe-3.git"
+  },
+  "keywords": [
+    "react",
+    "nextjs",
+    "redux-saga",
+    "kanban"
+  ],
+  "author": "drgoodness",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drgoodness/challenge-hh-2024-12-fe-3/issues"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "next": "^13.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.1.2",
+    "redux-saga": "^1.2.3"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-react": "^7.37.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
