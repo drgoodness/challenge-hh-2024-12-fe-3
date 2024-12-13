@@ -1,7 +1,7 @@
 # challenge-hh-2024-12-fe-3
 
 ## Description
-This is a web application which allows to read reviews about different platforms.
+This is a web application which provides a simple Kanban board functionality.
 
 ## Usage
 ### Prerequisites
